@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OefeningCircustreinWithoutUI", "OefeningCircustreinWithoutUI\OefeningCircustreinWithoutUI.csproj", "{2C96F9EF-DA2B-44D6-8484-4E421C5647A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProjectOefeningCircustreinWithoutUI2", "UnitTestProjectOefeningCircustreinWithoutUI2\UnitTestProjectOefeningCircustreinWithoutUI2.csproj", "{681B5DBC-4192-4561-BDD1-2741C4263A1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C96F9EF-DA2B-44D6-8484-4E421C5647A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C96F9EF-DA2B-44D6-8484-4E421C5647A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C96F9EF-DA2B-44D6-8484-4E421C5647A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C96F9EF-DA2B-44D6-8484-4E421C5647A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{681B5DBC-4192-4561-BDD1-2741C4263A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{681B5DBC-4192-4561-BDD1-2741C4263A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{681B5DBC-4192-4561-BDD1-2741C4263A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{681B5DBC-4192-4561-BDD1-2741C4263A1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59A2E150-A4B6-48A5-897B-AF049E054070}
+	EndGlobalSection
+EndGlobal
